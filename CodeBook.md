@@ -1,5 +1,3 @@
-## R Markdown
-
 ================================================================== Human
 Activity Recognition Using Smartphones Dataset Mean & Standard Deviation
 Version 1.0
