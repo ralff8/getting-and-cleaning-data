@@ -11,11 +11,11 @@ STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the
 waist. We extract the data of this experiment and create a new table
 with the Mean and Standard Deviation of any variable.
 
-# The dataset includes the following files:
+### The dataset includes the following files:
 
 -   ‘tidy\_data.txt’
 
-# Steps for creating the dataset the following files:
+### Steps for creating the dataset the following files:
 
 1: Read the data files
 
@@ -50,6 +50,6 @@ variable for each activity and each subject
 
 Write the tidy data to a file
 
-# License:
+### License:
 
 Abel V.
